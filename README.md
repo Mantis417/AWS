@@ -1,6 +1,4 @@
-# Guide för att Bygga Exam Stack
-
-Denna guide innehåller steg-för-steg-instruktioner för att köra AWS CloudFormation-stack.
+Denna guide innehåller instruktioner för att köra AWS CloudFormation-stack.
 
 ## Förutsättningar
 
